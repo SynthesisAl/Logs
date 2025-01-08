@@ -1,4 +1,4 @@
-<p align="center"> <a href="https://github.com/logpai"> <img src="https://cdn.jsdelivr.net/gh/logpai/logpai.github.io@master/img/logpai_logo.jpg" width="480"></a></p>
+<p align="center"> <a href="https://github.com/SynthesisAl"> <img src="![5474463881142331259](https://github.com/user-attachments/assets/0ab0fa7c-097d-481a-a5ea-4dd093c9106c)" width="480"></a></p>
 
 
 # Loghub
@@ -42,13 +42,6 @@ Loghub maintains a collection of system logs, which are freely accessible for AI
 | [OpenSSH](./OpenSSH)          | OpenSSH server log | | 28.4 days  |   655,146   | 70.02MB  | [:link:](https://zenodo.org/records/8196385/files/SSH.tar.gz?download=1) |
 |<tr><th colspan=7 align="center">:open_file_folder: **Standalone software**</th></tr>|                           
 | [Proxifier](./Proxifier)      |   Proxifier software log | | N.A.    |   21,329    |  2.42MB  |   [:link:](https://zenodo.org/records/8196385/files/Proxifier.tar.gz?download=1) |                                           
-
-
-### 🔥 Citation
-
-Please cite the following paper if you use the loghub datasets in your research.
-
-+ Jieming Zhu, Shilin He, Pinjia He, Jinyang Liu, Michael R. Lyu. [Loghub: A Large Collection of System Log Datasets for AI-driven Log Analytics](https://arxiv.org/abs/2008.06448). IEEE International Symposium on Software Reliability Engineering (ISSRE), 2023.
 
 
 ### Publications using loghub datasets
