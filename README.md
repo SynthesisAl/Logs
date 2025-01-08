@@ -1,4 +1,4 @@
-<p align="center"> <a href="https://github.com/SynthesisAl"> <img src="![5474463881142331259](https://github.com/user-attachments/assets/0ab0fa7c-097d-481a-a5ea-4dd093c9106c)" width="480"></a></p>
+<p align="center"> <a href="https://github.com/SynthesisAl"> <img src="https://github.com/user-attachments/assets/0ab0fa7c-097d-481a-a5ea-4dd093c9106c" width="480"></a></p>
 
 
 # Loghub
