@@ -1,13 +1,13 @@
 <p align="center"> <a href="https://github.com/SynthesisAl"> <img src="https://github.com/user-attachments/assets/0ab0fa7c-097d-481a-a5ea-4dd093c9106c" width="480"></a></p>
 
 
-# Loghub
+# Logs
 
 <div>
-<a href="https://github.com/logpai/loghub/stargazers"><img src="http://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=logpai&repo=loghub" width="600"/><a/>
+<img src="https://github.com/user-attachments/assets/63c08061-7054-4ab6-9f37-268ef6d5e8ea" width="600"/>
 </div>
 
-Loghub maintains a collection of system logs, which are freely accessible for AI-driven log analytics research. Some of the logs are production data released from previous studies, while some others are collected from real systems in our lab environment. Wherever possible, the logs are NOT sanitized, anonymized or modified in any way. These log datasets are freely available for research or academic work.
+Logs maintains a collection of system logs, which are freely accessible for AI-driven log analytics research. Some of the logs are production data released from previous studies, while some others are collected from real systems in our lab environment. Wherever possible, the logs are NOT sanitized, anonymized or modified in any way. These log datasets are freely available for research or academic work.
 
 🤗 We proudly announce that the loghub datasets have attained total <a href="https://doi.org/10.5281/zenodo.1144100"><img src="https://img.shields.io/endpoint?&url=https://cdn.jsdelivr.net/gh/logpai/loghub@zenodo/downloads.json&labelColor=1AE&color=DDEEFF&style=flat&label=Downloads"></a> by more than [**450 organizations**](https://github.com/logpai/loghub/wiki/Loghub-download-list) from both industry and academia.
 
@@ -67,12 +67,7 @@ Loghub maintains a collection of system logs, which are freely accessible for AI
 | WWW'23 | Liming Wang, Hong Xie, Ye Li, Jian Tan, John C.S. Lui. [Interactive Log Parsing via Light-weight User Feedback](https://arxiv.org/abs/2301.12225). ACM Web Conference, 2023. | 
 | TSC'23 | Siyu Yu, Pinjia He, Ningjiang Chen, Yifan Wu. [Brain: Log Parsing with Bidirectional Parallel Tree](https://ieeexplore.ieee.org/document/10109145). IEEE Transaction on Severice Computing, 2023. |
 
-:bulb: If you use loghub datasets in your paper, please feel free to make a PR to add your paper to the table.
-
-### Discussion
-Welcome to join our WeChat group for any question and discussion. Alternatively, you can [open a discussion here](https://github.com/logpai/loghub/discussions/new/choose).
-
-![Scan QR code](https://cdn.jsdelivr.net/gh/logpai/logpai.github.io@master/img/wechat.png)
+:bulb: If you use Synthesis datasets in your paper, please feel free to make a PR to add your paper to the table.
 
 ### 🌈 License
-The datasets are freely available for research or academic work. For any usage or distribution of the datasets, please refer to the loghub repository URL https://github.com/logpai/loghub and cite [the loghub paper](https://github.com/logpai/loghub/blob/master/CITATION) where applicable.
+The datasets are freely available for research or academic work. For any usage or distribution of the datasets, please refer to the loghub repository URL https://github.com/SynthesisAl/Logs
